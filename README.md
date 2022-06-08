@@ -1,6 +1,6 @@
 ## Eu sou Vitor Bersani 
 
-- Técnico em informática formado pelo <a href="https://cpv.ifsp.edu.br//">IFSP</a>, atualmente estudando Ciencias da computação em <a href="https://www.ceunsp.edu.br/">CEUNSP</a>.
+- Técnico em informática formado pelo <a href="https://cpv.ifsp.edu.br//">IFSP</a>, atualmente estudando Ciencias da computação em <a href="[https://www.ceunsp.edu.br/](https://www.rc.unesp.br/)">UNESP</a>.
 - Atualmente trabalhando no setor de desenvolvimento.
 <br><br>
 
